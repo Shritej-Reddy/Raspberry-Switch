@@ -1,0 +1,29 @@
+body{
+	background-color: #008080;
+}
+
+h2{
+	color: red;
+    border-width: 50px;
+    font-size: 35px;
+}
+
+input{
+    border:outset;
+    background-color: #83C11F;
+    color: white;
+    border-radius: 28px;
+    padding: 30px 50px;
+    text-align: center;
+    font-size: 18px;
+    margin: 8px 4px;
+    cursor: pointer;    
+}
+div{
+    text-align: center;
+    display:inline-block;
+    background-color: gold ;
+    padding-left: 600px;
+    padding-right: 550px;
+    padding-bottom: 450px;
+}
